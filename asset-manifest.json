@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-hostname-generator/static/css/main.1170e499.chunk.css",
+    "main.js": "/simple-hostname-generator/static/js/main.e1e2e739.chunk.js",
+    "main.js.map": "/simple-hostname-generator/static/js/main.e1e2e739.chunk.js.map",
+    "runtime-main.js": "/simple-hostname-generator/static/js/runtime-main.902883ea.js",
+    "runtime-main.js.map": "/simple-hostname-generator/static/js/runtime-main.902883ea.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/simple-hostname-generator/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6937074a.chunk.js": "/simple-hostname-generator/static/js/2.6937074a.chunk.js",
+    "static/js/2.6937074a.chunk.js.map": "/simple-hostname-generator/static/js/2.6937074a.chunk.js.map",
+    "index.html": "/simple-hostname-generator/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/simple-hostname-generator/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.1170e499.chunk.css.map": "/simple-hostname-generator/static/css/main.1170e499.chunk.css.map",
+    "static/js/2.6937074a.chunk.js.LICENSE.txt": "/simple-hostname-generator/static/js/2.6937074a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902883ea.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6937074a.chunk.js",
+    "static/css/main.1170e499.chunk.css",
+    "static/js/main.e1e2e739.chunk.js"
+  ]
+}

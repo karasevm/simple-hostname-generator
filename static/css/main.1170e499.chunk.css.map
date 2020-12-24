@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,qBAIE,WACF,CACA,GACE,oBACF","file":"main.1170e499.chunk.css","sourcesContent":["body,\nhtml,\n#root,\n.App {\n  height: 100%;\n}\nh1 {\n  word-wrap: break-word;\n}\n"]}
