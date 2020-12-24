@@ -4,3 +4,6 @@ html,
 .App {
   height: 100%;
 }
+h1 {
+  word-wrap: break-word;
+}
