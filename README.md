@@ -1,6 +1,6 @@
 # Simple hostname generator
 
-[Try it out here.](https://karasevm.ru/simple-hostname-generator/)
+[Try it out here.](https://simple-hostname-generator.pages.dev/)
 
 Simple react app that generates a hostname in the format `adjective*n+noun`.
 
